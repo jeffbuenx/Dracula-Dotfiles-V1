@@ -1,7 +1,7 @@
 
 
 
-	Hey!
+Hey!
 	
 Here's my first and incomplete version
 of my dracula ricing on arch linux
