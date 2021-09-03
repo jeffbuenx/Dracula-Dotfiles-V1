@@ -10,5 +10,22 @@ There are still confusing/missing things,
 and also portugese phrases on the comments,
 but i plan to fix that.
 
+OS: Arch
+
+WM: Sway
+
+Bar: Waybar
+
+Shell: Bash
+
+Term: Kitty
+
+Font: FiraCode
+
+Color scheme: Dracula
+
+Terminal programs shown: Neofetch, Cmatrix, Cava, htop
+
+App launcher: wofi (not shown)
 ![Wallpaper](https://github.com/jeffmbueno/Dracula-Dotfiles-V1/blob/master/Preview-Images/Wallpaper.png)
 ![Scripts](https://github.com/jeffmbueno/Dracula-Dotfiles-V1/blob/master/Preview-Images/Scripts.png)
