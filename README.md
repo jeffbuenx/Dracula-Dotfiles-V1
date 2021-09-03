@@ -9,3 +9,6 @@ of my dracula ricing on arch linux
 There are still confusing/missing things,
 and also portugese phrases on the comments,
 but i plan to fix that.
+
+![Wallpaper](https://github.com/jeffmbueno/Dracula-Dotfiles-V1/blob/master/Preview-Images/Wallpaper.png)
+![Scripts](https://github.com/jeffmbueno/Dracula-Dotfiles-V1/blob/master/Preview-Images/Scripts.png)
